@@ -10,7 +10,8 @@ This game incorporates limited animation to display move sets, while focusing on
 ![](img/Hidden%20Stage.png)
 
 ## Installation
-https://drive.google.com/file/d/18GyZu4_xOeco1L-raZ2kWlgnYpeZUs0-/view?usp=sharing
+The game can now be downloaded through a installer, which makes the game much more accessible.  
+https://drive.google.com/file/d/1Zgg1WWPHcuJD5W3A2ggD-rEhUT5P22oI/view?usp=sharing
 
 
 
