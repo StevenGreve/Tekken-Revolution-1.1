@@ -10,8 +10,4 @@ This game incorporates limited animation to display move sets, while focusing on
 ![](img/Hidden%20Stage.png)
 
 ## Installation 
-I included a instruction manual, a README.txt, additional code, and the JDK environment, which makes the game much more accessible.
-https://drive.google.com/drive/folders/1PsyVoGh_RrvXWg1AUiNfY89-3hcoTsb1?usp=sharing
-
-
-
+https://drive.google.com/drive/folders/1Yyj6vdvp8MiN7JQCrpWpivz9ah-fk6NJ?usp=sharing
